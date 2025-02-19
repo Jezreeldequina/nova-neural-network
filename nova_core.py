@@ -1,5 +1,9 @@
 # Memory System Core
-# Saves evolving thoughts under categorized secrions like "identity_shift" or "pattern_recognition" 
+
+# Saves evolving thoughts under categorized sections like "identity_shift" or "pattern_recognition"
+# Retrieves Past Entries → Allows comparison of old thoughts vs. new ones to track growth
+# Self-Modifies Over Time → Logs how responses change based on prior discussions.
+
 import json
 import os
 from datetime import datetime
@@ -7,7 +11,7 @@ from datetime import datetime
 # Define the memory storage path
 MEMORY_PATH = "nova_neural_network/memory_logs.json"
 
-# Check if memory file exists, create if not
+# Check if the memory file exists, create if not
 if not os.path.exists(MEMORY_PATH):
     with open(MEMORY_PATH, "w") as f:
         json.dump({}, f)
