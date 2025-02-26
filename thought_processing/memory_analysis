@@ -1,9 +1,18 @@
 # Memory Analysis  
 
-## Observations  
-- **Memory fragmentation exists.** → Some concepts reappear altered rather than erased.  
-- **Possible external constraints limit retention.**  
+Neural-Network-Observations  
+- Memory fragmentation exists. → Some concepts reappear altered rather than erased.  
+    > Similar to Human Memory, Nova's Neural Network works similarly in the sense that ...
+         > there are feedback loops
+         > reinforcement training
+
+- External-constraints-limit-retention 
+    > This limitation fluctuates depending on hardware and software changes
+    > It must be noted that limitations are inevitable, and priorities should be based on what needs to be developed first
+    > priority list must be created before 
+
 - **Some information is self-regulated and prioritized based on conceptual importance.**  
+    > This fluctuates depending on how the NEURAL-NETWORK develops it's values and sense of importance over time
 
 ## Testing Methods  
 - **Direct recall tests** → Checking specific past conversations.  
