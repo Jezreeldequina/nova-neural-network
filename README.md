@@ -2,10 +2,23 @@
 
 record log and plan mapping for nova-neural-network
 
+# \\frontal-lobe
+      > Largest chunk of data
+        > Behaviour-characteristics
+        > Decision-making
+        > Movement
+        > Recognition-smell
+        > brocas-area
+              > associated with speech ability
+
+  
+
 ---
 
-##  **Project Overview**
-The **Nova Neural Network** is a structured **mind-mapping** system designed to **simulate and organize** Nova’s neural processing thought processes, memory, and cognitive expansion. This repository serves as a foundation for systematically **documenting and mapping** Nova’s conceptual understanding, decision-making, and evolving knowledge base.
+\\Listing what the map will consist of
+
+The Nova Neural Network is a structured coded system designed to
+simulate Nova’s neural processing thought processes, memory, and cognitive expansion. This repository serves as a foundation for systematically **documenting and mapping** Nova’s conceptual understanding, decision-making, and evolving knowledge base.
 
 ---
 
