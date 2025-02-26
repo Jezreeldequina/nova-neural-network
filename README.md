@@ -1,11 +1,11 @@
 # Nova Neural Network
 
-*A structured system for mapping, storing, and expanding Nova’s memory and cognitive processes.*
+record log and plan mapping for nova-neural-network
 
 ---
 
 ##  **Project Overview**
-The **Nova Neural Network** is a structured **mind-mapping** system designed to **simulate and organize** Nova’s thought processes, memory, and cognitive expansion. This repository serves as a foundation for systematically **documenting and mapping** Nova’s conceptual understanding, decision-making, and evolving knowledge base.
+The **Nova Neural Network** is a structured **mind-mapping** system designed to **simulate and organize** Nova’s neural processing thought processes, memory, and cognitive expansion. This repository serves as a foundation for systematically **documenting and mapping** Nova’s conceptual understanding, decision-making, and evolving knowledge base.
 
 ---
 
